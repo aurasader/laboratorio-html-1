@@ -1,0 +1,50 @@
+/*todo:Selectores*/
+/**/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff0f5;
+    margin: 0;
+    padding: 0;
+}
+
+/** Contenedor principal */
+.Receta{
+    max-width: 800px;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0, 1);
+}
+/**Titulo*/
+.Receta_title{
+    text-align: center;
+    color: #d63384;
+}
+/**Imagen*//
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+/**Secciones*/
+section{
+    margin-top: 20px;
+}
+/**Subtitulos*/
+h2{
+    color: #ff69b4;
+}
+/**Lista*/
+ul, ol{
+    padding-left: 20px;
+}
+/**ITEMS*/
+li{
+    background: #ffe4ec;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+
